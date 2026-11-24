@@ -4,29 +4,25 @@
 
 ### IT Technician · Cybersecurity Learner · Networking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=620&lines=Building+secure+systems;Learning+offensive+security;Exploring+Linux+%26+networking" alt="Typing introduction" />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushhamal.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushhamal.com.np-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushhamal.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-hamal-623b4127b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ayushhamalthakuri)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=logiclinguist8989&label=PROFILE+VISITS&color=38bdf8&style=for-the-badge" alt="Profile visit counter" />
-
 </div>
 
-## 🧑‍💻 About
+## About
 
-I'm an IT professional exploring cybersecurity, system administration, networking, and ethical hacking. I enjoy learning by building labs, solving practical problems, and strengthening my defensive and offensive security skills.
+I'm an IT professional interested in cybersecurity, system administration, networking, and ethical hacking. I learn through hands-on labs, practical troubleshooting, and projects that strengthen defensive and operational skills.
 
-## 🛠️ Tech Focus
+- **Current focus:** Linux, networking, security fundamentals, and system administration
+- **Working style:** Methodical, practical, and documentation-driven
+- **Interests:** Infrastructure security, automation, threat analysis, and continuous learning
 
-`Linux` · `Networking` · `Cybersecurity` · `System Administration` · `Troubleshooting`
+## Technical Skills
 
-## 🔧 Tools & Platforms
+`Linux` · `Bash` · `Networking` · `Git` · `Docker` · `Wireshark` · `Cybersecurity` · `Troubleshooting`
+
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -37,22 +33,22 @@ I'm an IT professional exploring cybersecurity, system administration, networkin
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=logiclinguist8989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=logiclinguist8989&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=logiclinguist8989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=logiclinguist8989&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
-Open to IT support, networking, and cybersecurity opportunities.
+I'm open to opportunities in IT support, networking, system administration, and cybersecurity.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayushhamal.com.np-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushhamal.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushhamal.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Hamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-hamal-623b4127b)
 
 </div>
