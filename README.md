@@ -4,6 +4,8 @@
 
 ### IT Technician · Cybersecurity Learner · Networking Enthusiast
 
+![Profile views](https://komarev.com/ghpvc/?username=logiclinguist8989&label=Profile%20views&color=0e75b6&style=flat)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayushhamal.com.np-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushhamal.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-hamal-623b4127b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ayushhamalthakuri)
@@ -12,7 +14,7 @@
 
 ## About
 
-I'm an IT professional interested in cybersecurity, system administration, networking, and ethical hacking. I learn through hands-on labs, practical troubleshooting, and projects that strengthen defensive and operational skills.
+I'm an IT professional interested in cybersecurity, system administration, networking, and ethical hacking. I learn through hands-on labs, practical troubleshooting, and projects that strengthen my technical skills.
 
 - **Current focus:** Linux, networking, security fundamentals, and system administration
 - **Working style:** Methodical, practical, and documentation-driven
